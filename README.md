@@ -13,7 +13,9 @@ Once merged into the main branch it will automatically redeploy to render
 ## Installation
 
 npm i -y
+
 npm run build
+
 npm run seed
 
 https://continuousid-pipeline.onrender.com
